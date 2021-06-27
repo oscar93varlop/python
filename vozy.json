@@ -1,0 +1,1 @@
+{ "source": [ "aws.cloudwatch" ], "detail-type": [ "CloudWatch Alarm State Change" ], "resources": [ "arn:aws:cloudwatch:us-east-1:808378037958:alarm:Vozy-DISK-85%-Critical-KZ1-Z100-d26" ], "detail": { "state": { "value": [ "ALARM" ] } } }
